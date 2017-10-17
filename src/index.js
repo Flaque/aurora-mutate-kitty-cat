@@ -1,3 +1,5 @@
+import React from "react";
+
 function AddKitty(Frame) {
   return class extends React.Component {
     render() {
