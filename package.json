@@ -4,8 +4,8 @@
   "description": "",
   "main": "build/index.js",
   "scripts": {
-    "build": "make build SRC=./src",
-    "prepublish": "make build SRC=./src"
+    "build": "webpack",
+    "prepublish": "webpack"
   },
   "author": "",
   "license": "MIT",
