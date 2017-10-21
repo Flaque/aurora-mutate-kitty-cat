@@ -1,6 +1,6 @@
 {
   "name": "aurora-mutation-cats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "build/index.js",
   "scripts": {
