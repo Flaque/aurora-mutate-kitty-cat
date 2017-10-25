@@ -15,7 +15,8 @@
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "styled-components": "^2.2.2"
   },
   "devDependencies": {
     "babel-loader": "^7.1.2",
